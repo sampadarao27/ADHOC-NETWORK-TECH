@@ -130,8 +130,8 @@ The project demonstrates core concepts suitable for learning and internship subm
 For production: add input validation, prepared statements (already used), secure session management, and password hashin
 
 Screenshots 
-![adoch 2](https://github.com/user-attachments/assets/0c40ef10-f8e9-473b-82fe-16f81fba4f98)
 ![adhoc](https://github.com/user-attachments/assets/23779672-1213-4f98-8c3c-843bfc3dd819)
+![adoch 2](https://github.com/user-attachments/assets/036270d2-893c-45d7-9612-beb6a76eb6af)
 
 Conclusion
 This short-term internship project successfully demonstrates essential Java full-stack skills (JSP, Servlets, JDBC, MySQL) and provides step-by-step setup instructions to reproduce the Registration application locally. 
