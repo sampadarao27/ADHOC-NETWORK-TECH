@@ -1,3 +1,4 @@
+[Laxmi Adhoc Intership.pdf](https://github.com/user-attachments/files/22233833/Laxmi.Adhoc.Intership.pdf)
 # ADHOC-NETWORK-TECH
 JAVA FULL STACK DEVELPOMENT INTERN
 
