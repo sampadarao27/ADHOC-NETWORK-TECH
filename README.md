@@ -132,7 +132,6 @@ For production: add input validation, prepared statements (already used), secure
 Screenshots 
 ![adhoc](https://github.com/user-attachments/assets/23779672-1213-4f98-8c3c-843bfc3dd819)
 ![adoch 2](https://github.com/user-attachments/assets/036270d2-893c-45d7-9612-beb6a76eb6af)
-
 Conclusion
 This short-term internship project successfully demonstrates essential Java full-stack skills (JSP, Servlets, JDBC, MySQL) and provides step-by-step setup instructions to reproduce the Registration application locally. 
 
